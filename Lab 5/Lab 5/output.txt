@@ -1,0 +1,30 @@
+Total purchase       $   456.00
+Discount             $   136.80
+--------------------- 
+New Price            $   319.20
+
+Total purchase       $   159.00
+Discount             $    31.80
+--------------------- 
+New Price            $   127.20
+
+Total purchase       $  1500.00
+Discount             $   750.00
+--------------------- 
+New Price            $   750.00
+
+Total purchase       $   325.00
+Discount             $    97.50
+--------------------- 
+New Price            $   227.50
+
+Total purchase       $   147.00
+Discount             $    29.40
+--------------------- 
+New Price            $   117.60
+
+Total purchase       $    12.00
+Discount             $     1.20
+--------------------- 
+New Price            $    10.80
+
